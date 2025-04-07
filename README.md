@@ -17,7 +17,7 @@ This tool performs OSINT investigations using AI-powered analysis through the Ag
   - Digital traces
   - Domain and infrastructure information
 
-##Output
+## Output
 This is for educational purpose only. TO show Demo
 
 ![1742839349690 (1)](https://github.com/user-attachments/assets/fb345ab5-cded-4f79-af6d-95f2247b5519)
