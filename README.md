@@ -1,6 +1,6 @@
 # Simple OSINT Agent
 
-A simple OSINT (Open Source Intelligence) agent built with Agno framework for ethical information gathering.
+A simple OSINT (Open Source Intelligence) agent with ethical consideration for information gathering.
 
 ## Description
 
